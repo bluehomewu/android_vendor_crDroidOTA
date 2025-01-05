@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Edward Wu (bluehomewu)",
+        "oem": "Asus",
+        "device": "ASUS ZenFone 5Z",
+        "filename": "crDroidAndroid-15.0-20250104-Z01R-v11.1-BETA.zip",
+        "download": "https://sourceforge.net/projects/crdroid/files/Z01R/11.x/crDroidAndroid-15.0-20250104-Z01R-v11.1-BETA.zip/download",
+        "timestamp": 1735987217,
+        "md5": "85ccd175eb55cca3a6045c59bb054da7",
+        "sha256": "536878a442231126533347d1658f5d9ad3aca7cd9cb3e0cad88a2a4d398a3c12",
+        "size": 1157909037,
+        "version": "11.1",
+        "buildtype": "BETA",
+        "forum": "",
+        "gapps": "https://nikgapps.com/crdroid-official",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/edwardwu0223",
+        "telegram": "",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}

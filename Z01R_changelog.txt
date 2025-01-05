@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Beta
+Device: Asus ZenFone 5Z (Z01R)
+Device maintainer: Edward Wu (bluehomewu)
+
+====================
+     04-01-2025
+====================
++ Initial crDroid 11.1 Beta Build.
